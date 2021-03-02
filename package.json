@@ -1,0 +1,22 @@
+{
+  "name": "clientsiderendering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgonzalezc1/ClientSideRendering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgonzalezc1/ClientSideRendering/issues"
+  },
+  "homepage": "https://github.com/dgonzalezc1/ClientSideRendering#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  }
+}
